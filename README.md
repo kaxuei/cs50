@@ -6,6 +6,7 @@
 
 -  [Problem Set 1: C](week-1/problem-set-1/)
   - [world](week-1/problem-set-1/world)
+  - [me](week-1/problem-set-1/me)
   - mario
     - [less](week-1/problem-set-1/mario-less)
     - [more](week-1/problem-set-1/mario-more)
