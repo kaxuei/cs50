@@ -15,5 +15,5 @@
   - [credit](week-1/problem-set-1/credit)
 
 ## Week 2
- -[Problem Set 2: Arrays](week-2/problem-set-2/)
+ - [Problem Set 2: Arrays](week-2/problem-set-2/)
   - [scrabble](week-2/problem-set-2/scrabble)
