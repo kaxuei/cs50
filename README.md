@@ -8,14 +8,14 @@
 ## Week 1
 
 -  # [Problem Set 1: C](week-1/problem-set-1/)
-  - [world](week-1/problem-set-1/world)
-  - [me](week-1/problem-set-1/me)
-  - mario
-    - [less](week-1/problem-set-1/mario-less)
-    - [more](week-1/problem-set-1/mario-more)
-  - [credit](week-1/problem-set-1/credit)
+   - [world](week-1/problem-set-1/world)
+   - [me](week-1/problem-set-1/me)
+   - mario
+     - [less](week-1/problem-set-1/mario-less)
+     - [more](week-1/problem-set-1/mario-more)
+   - [credit](week-1/problem-set-1/credit)
 
 ## Week 2
  - # [Problem Set 2: Arrays](week-2/problem-set-2/)
-  - [scrabble](week-2/problem-set-2/scrabble)
-  - [readability](week-2/problem-set-2/readability)
+   - [scrabble](week-2/problem-set-2/scrabble)
+   - [readability](week-2/problem-set-2/readability)
