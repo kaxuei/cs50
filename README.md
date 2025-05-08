@@ -3,7 +3,8 @@
 ## [Academic Honesty](https://cs50.harvard.edu/x/honesty/)
 ## Week 0
 
-- [Problem Set 0: Scratch ](https://scratch.mit.edu/projects/1166517806/)
+- # [Problem Set 0: Scratch ](https://scratch.mit.edu/projects/1166517806/)
+
 ## Week 1
 
 -  # [Problem Set 1: C](week-1/problem-set-1/)
